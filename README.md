@@ -1,4 +1,4 @@
-# Shell Project with Cosmin Bejan and Drobnitchi Daniel
+# Shell Project with Cosmin Bejan and Suto Robert Lucian
 
 As a project work of our Operating System course we have implemented this basic shell program for Linux / Unix like operating system.
 
